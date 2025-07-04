@@ -14,7 +14,7 @@ There are 3 main ways.
 
 **1.** Use [GaryOderNicht's](https://github.com/GaryOderNichts/WiiUCommonKeyExtractor) Common Key Extractor (Windows only) <br> <br>
 **2.** Use [Acer_51 (Arthur)'s](https://github.com/acer51-doctom/commonkey_extractor) Common Key Extractor (macOS and Linux) <br> <br>
-**3.** Use any Hex editor and on the **OFFSET** 0E0 (or 0xE0), select the first 16 bytes. (No spaces does not count. Yes it's 32 letters and numbers in total.)
+**3.** (Manually) Use any Hex editor and on the **OFFSET** 0E0 (or 0xE0), select the first 16 bytes. (No spaces does not count. Yes it's 32 letters and numbers in total.)
 
 ## Usage
 
